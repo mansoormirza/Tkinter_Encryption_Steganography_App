@@ -1,7 +1,5 @@
 # AES Encryption/Decryption & Steganography Application 
 
-Opening the Application:
-
 Launch the application by running the main.py file as 'python main.py' after installing required packages mentioned in requirements.txt file.
 The main window titled "AES Encryption and Decryption" will appear.
 
