@@ -5,7 +5,7 @@ Opening the Application:
 Launch the application by running the main.py file as 'python main.py' after installing required packages mentioned in requirements.txt file.
 The main window titled "AES Encryption and Decryption" will appear.
 
-#Encryption Process:
+**Encryption Process:**
 
 Click on the "ENCRYPTION" button to start the encryption process.
 You will be taken to the Encryption page.
@@ -16,7 +16,7 @@ The encrypted text will be displayed in the "Encrypted Output" area.
 Optionally, you can select a cover image by clicking the "Select Image" button next to the "Select Cover Image" field.
 Click the "Process" button to hide the encrypted text in the selected cover image.
 
-##Decryption Process:
+**Decryption Process:**
 
 Click on the "DECRYPTION" button to switch to the Decryption page.
 You will be taken to the Decryption page.
